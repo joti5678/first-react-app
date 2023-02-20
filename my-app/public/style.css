@@ -1,0 +1,16 @@
+.appcss h1{
+ margin: 0;
+ text-align: left;
+ font-size: 30px;
+}
+.appcss h2{
+ margin: 0;
+ padding: 0;
+}
+.appcss p{
+ margin: 0;
+ padding: 0;
+}
+.appcss {
+   text-align: left;
+   }
